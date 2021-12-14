@@ -1,6 +1,7 @@
 # API REST- with symfony | API-Plateform. For Mobile Application. Team DEVORE (Lenny Vazeille | Sofiane Wattiez | Morgan Levetti) - La Plateforme CS2
 
 Use : PHP 7.4.9 
+
 Don't Use : PHP ~8+
 
 # Dependencies
